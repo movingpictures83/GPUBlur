@@ -1,0 +1,2 @@
+Prefix plugins/GPUBlur/example/
+Plugin GPUBlur inputfile input.ppm outputfile blur.ppm
